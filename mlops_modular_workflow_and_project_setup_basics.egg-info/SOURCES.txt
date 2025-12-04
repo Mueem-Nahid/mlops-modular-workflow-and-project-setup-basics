@@ -1,0 +1,8 @@
+README.md
+setup.py
+mlops_modular_workflow_and_project_setup_basics.egg-info/PKG-INFO
+mlops_modular_workflow_and_project_setup_basics.egg-info/SOURCES.txt
+mlops_modular_workflow_and_project_setup_basics.egg-info/dependency_links.txt
+mlops_modular_workflow_and_project_setup_basics.egg-info/requires.txt
+mlops_modular_workflow_and_project_setup_basics.egg-info/top_level.txt
+src/__init__.py
