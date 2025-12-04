@@ -1,0 +1,15 @@
+# Virtual Environment 
+venv/
+env/
+ENV/
+myenv/
+
+__pycache__/
+
+.vscode/
+
+.idea/
+
+.log
+
+.ipynb_checkpoints
