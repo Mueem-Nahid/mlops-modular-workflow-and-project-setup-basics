@@ -1,6 +1,6 @@
 #!/bin/bash
 
-list_of_files = (
+list_of_files=(
     "src/__init__.py"
     "src/components/__init__.py"
     "src/components/data_ingestion.py"
