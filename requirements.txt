@@ -7,3 +7,4 @@ dvc
 kaggle
 feast
 mlflow 
+flask
